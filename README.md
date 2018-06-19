@@ -11,3 +11,7 @@ Try to solve algorithm problems with java
 - [CodingBat](http://codingbat.com)
   - Provides easy level recursion problems to practice Recusrion basically.
 - [Khanacademy - computer science/algorithm part](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+### Editor
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Setup Visual Studio Code for java](https://code.visualstudio.com/docs/languages/java)
